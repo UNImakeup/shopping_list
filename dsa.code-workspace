@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\PlatformIO\\Projects\\LED blink"
+		},
+		{
+			"name": "LED",
+			"path": "..\\PlatformIO\\Projects\\LED"
+		},
+		{
+			"name": "Blink",
+			"path": "..\\PlatformIO\\Projects\\Blink"
+		},
+		{
+			"name": "analogRead",
+			"path": "..\\PlatformIO\\Projects\\analogRead"
+		},
+		{
+			"name": "Light",
+			"path": "..\\PlatformIO\\Projects\\Light"
+		},
+		{
+			"name": "Joystick",
+			"path": "..\\PlatformIO\\Projects\\Joystick"
+		}
+	],
+	"settings": {}
+}
